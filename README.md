@@ -20,10 +20,9 @@ Installation
 
 Option 1: Download Pre-Built (Recommended for most users)
 
-1. Download the latest release for your OS:
-   - Windows: stickyshots-vX.X.X-windows.exe
-   - Mac: stickyshots-vX.X.X-macos.dmg
-   - Linux: stickyshots-vX.X.X-linux.AppImage
+1. Download the latest release:
+   - Windows (1-Click Installer): [stickyshots_release.exe](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_release.exe)
+   - Developers (Source Zip): [stickyshots_dev_release.zip](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_dev_release.zip)
 
 2. Install the Chrome extension:
    - Open chrome://extensions
