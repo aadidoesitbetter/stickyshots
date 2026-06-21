@@ -20,15 +20,17 @@ Installation
 
 Option 1: Download Pre-Built (Recommended for most users)
 
-1. Download the latest release:
-   - Windows (1-Click Installer): [stickyshots_release.exe](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_release.exe)
-   - Developers (Source Zip): [stickyshots_dev_release.zip](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_dev_release.zip)
+1. Download the latest release assets:
+   - Windows App: [stickyshots_release.exe](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_release.exe)
+   - Chrome Extension: [stickyshots_extension.zip](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_extension.zip)
+   - Developers (Full Source): [stickyshots_dev_release.zip](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0-dev/stickyshots_dev_release.zip)
 
 2. Install the Chrome extension:
-   - Open chrome://extensions
-   - Enable Developer mode (top right)
-   - Click Load unpacked
-   - Select the chrome-extension/ folder from the release
+   - Download and extract `stickyshots_extension.zip` to a folder on your computer
+   - Open Chrome and navigate to `chrome://extensions`
+   - Enable **Developer mode** (toggle in the top right corner)
+   - Click **Load unpacked**
+   - Select the extracted `chrome-extension` folder
 
 3. Run the desktop app and keep it running in your system tray
 4. Right-click any image and select "Send to StickyShots"
