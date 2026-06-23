@@ -159,13 +159,13 @@ Press `F12` in a sticky note window, or right-click → **Inspect**
 
 - **GitHub Issues** — for bugs or feature requests
 - **Discussions** — for questions or ideas (coming soon)
-- **Email** — hey@aadidoesitbetter.com (for urgent issues)
+- **Email** — hey@derezzedlabs.com (for urgent issues)
 
 ## Recognition
 
 Contributors get mentioned in:
 - Release notes
 - GitHub contributors page
-- Future landing page (aadidoesitbetter.com)
+- Future landing page (derezzedlabs.com)
 
 Thanks for making StickyShots better! 🎉

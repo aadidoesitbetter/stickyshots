@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Float any image as a draggable sticky note on top of any app on your screen.",
   "main": "src/main.js",
-  "author": "Aadi",
+  "author": "Derezzed Labs",
   "license": "MIT",
   "scripts": {
     "start": "electron .",
@@ -17,7 +17,7 @@
     "electron-builder": "^26.15.3"
   },
   "build": {
-    "appId": "com.aadidoesitbetter.stickyshots",
+    "appId": "com.derezzedlabs.stickyshots",
     "productName": "StickyShots",
     "icon": "build/icon.png",
     "directories": {
