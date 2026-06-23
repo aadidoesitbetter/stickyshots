@@ -13,7 +13,7 @@ No cloud. No accounts. Everything stays on your machine.
 ![StickyShots Showcase](demo.png)
 
 ## Quick Start
-- **[Download App (Windows)](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots_release.exe)**
+- **[Download App (Windows)](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots.exe)**
 - **[Download Chrome Extension](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots_extension.zip)**
 - **[View Releases](https://github.com/aadidoesitbetter/stickyshots/releases)**
 
@@ -36,7 +36,7 @@ No cloud. No accounts. Everything stays on your machine.
 Option 1: Download Pre-Built (Recommended for most users)
 
 1. Download the latest release assets:
-   - Windows App: [stickyshots_release.exe](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots_release.exe)
+   - Windows App: [stickyshots.exe](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots.exe)
    - Chrome Extension: [stickyshots_extension.zip](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots_extension.zip)
    - Developers (Full Source): [stickyshots_dev_release.zip](https://github.com/aadidoesitbetter/stickyshots/releases/download/v1.0.0/stickyshots_dev_release.zip)
 
