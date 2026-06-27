@@ -10,7 +10,7 @@ Right click any image on the web → it appears as a floating, draggable, resiza
 
 No cloud. No accounts. Everything stays on your machine.
 
-![StickyShots Showcase](demo.png)
+![StickyShots Showcase](app/assets/template.png)
 
 ## Quick Start
 - **[Download App (Windows)](https://github.com/Derezzed-Labs/stickyshots/releases/download/v1.0.0/stickyshots.exe)**
